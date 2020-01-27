@@ -1,0 +1,11 @@
+{
+	"amounts": {
+		"maxSimilarAmount": 6
+	},
+	"changelog": {
+		"currentversion": "1.4.0"
+	},
+	"choices": {
+		"dictionaryLanguage": "en"
+	}
+}

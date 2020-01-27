@@ -1,0 +1,19 @@
+{
+	"changelog": {
+		"currentversion": "1.9.1"
+	},
+	"choices": {
+		"inputContext": "$discord",
+		"inputMessage": "auto",
+		"outputContext": "en",
+		"outputMessage": "$discord"
+	},
+	"engines": {
+		"translator": "google"
+	},
+	"settings": {
+		"addTranslateButton": true,
+		"sendOriginalMessage": false,
+		"useChromium": false
+	}
+}
